@@ -1,0 +1,139 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-08-04 23:14+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: bot/handlers/contact_with_us.py:16 bot/handlers/contact_with_us.py:58
+#: bot/handlers/language.py:15 bot/handlers/main.py:20 bot/handlers/main.py:34
+#: bot/handlers/main.py:254 bot/handlers/order.py:22
+msgid "📦 Products Section"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:17 bot/handlers/contact_with_us.py:59
+#: bot/handlers/language.py:16 bot/handlers/main.py:21 bot/handlers/main.py:35
+#: bot/handlers/main.py:255 bot/handlers/order.py:23
+msgid "📞 Connect with us"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:18 bot/handlers/contact_with_us.py:60
+#: bot/handlers/language.py:17 bot/handlers/main.py:22 bot/handlers/main.py:36
+#: bot/handlers/main.py:256 bot/handlers/order.py:24
+msgid "🛒 Order"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:19 bot/handlers/contact_with_us.py:61
+#: bot/handlers/language.py:18 bot/handlers/main.py:23 bot/handlers/main.py:37
+#: bot/handlers/main.py:257 bot/handlers/order.py:25
+msgid "🇺🇿/🇷🇺/🇺🇸 Choose language"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:25 bot/handlers/language.py:24
+#: bot/handlers/main.py:43 bot/handlers/order.py:31
+msgid "Back to main section!"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:32
+msgid "📖 For Information"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:33
+msgid "😠 Complaint"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:34
+msgid "💡 Suggestions"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:35 bot/handlers/order.py:41
+#: bot/handlers/order.py:57 bot/handlers/order.py:72 bot/handlers/order.py:109
+msgid "⬅️ Back"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:40
+msgid "What is the reason you want to get in touch?"
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:46
+msgid "📞 Share your contact "
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:52
+msgid "Please leave your phone number, we will contact you ourselves."
+msgstr ""
+
+#: bot/handlers/contact_with_us.py:66
+msgid "Thank! we recieve your phone number :)"
+msgstr ""
+
+#: bot/handlers/language.py:32 bot/handlers/language.py:53
+#: bot/handlers/main.py:57 bot/handlers/main.py:74 bot/handlers/main.py:100
+#: bot/handlers/main.py:127 bot/handlers/main.py:151
+msgid "⬅️ back"
+msgstr ""
+
+#: bot/handlers/language.py:36 bot/handlers/language.py:57
+msgid "Choose language"
+msgstr ""
+
+#: bot/handlers/main.py:28
+msgid "Main section!"
+msgstr ""
+
+#: bot/handlers/main.py:79
+msgid "Choose product type!"
+msgstr ""
+
+#: bot/handlers/main.py:105
+msgid "Choose type of product!"
+msgstr ""
+
+#: bot/handlers/main.py:132
+msgid "Choose which brand!"
+msgstr ""
+
+#: bot/handlers/main.py:156
+msgid "choose appropiate size!"
+msgstr ""
+
+#: bot/handlers/main.py:174 bot/handlers/main.py:206
+msgid "📥 Add to busket"
+msgstr ""
+
+#: bot/handlers/main.py:263
+msgid "Successfully added!"
+msgstr ""
+
+#: bot/handlers/order.py:39 bot/handlers/order.py:55
+msgid "📦 All orders"
+msgstr ""
+
+#: bot/handlers/order.py:40 bot/handlers/order.py:56
+msgid "🛒 Current orders"
+msgstr ""
+
+#: bot/handlers/order.py:48 bot/handlers/order.py:65
+msgid "Which one do you want to see!"
+msgstr ""
+
+#: bot/handlers/order.py:81 bot/handlers/order.py:116
+msgid "You don't have any order yet!"
+msgstr ""
+
+#: bot/handlers/order.py:83
+msgid "📦 To complete"
+msgstr ""
+
